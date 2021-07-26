@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=%20Destiny%20Kim%20&fontSize=85&&animation=scaleIn&textBg=true&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=%20Destiny%20Kim%20&fontSize=85&&animation=scaleIn&textBg=true)
 
 
 
