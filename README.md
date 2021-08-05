@@ -5,9 +5,6 @@
 
 ### 👋 Hi there 👋
 
-
-**DestinyKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on My GitHub profile.
-
 - 🌱 I’m currently learning ![img](https://img.shields.io/badge/-PYTHON-blueviolet) and ![img](https://img.shields.io/badge/-Machine_Learning-gray) in Like_Lion &#128522;
 - &#127774; I'm going to grow  my Github step by step.&#127803;
 - 📫 How to reach me: nameunio.dk@gmail.com &#128150;
